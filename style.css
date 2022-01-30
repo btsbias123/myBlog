@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(201, 154, 231);
+    color:rgb(0, 0, 0);    
+    }
+    
+    
+    .heading{
+    width:80%;
+    font-size:22px;    
+    }
+    
+    .name{
+    color:rgb(0, 0, 0);    
+    }
+    
+    #weirdo{
+    border:2px dotted white;
+    width:300px;
+    height:350px;    
+    }
+    
+    #blabla{
+    border: 2px solid white;
+    width: 300px;
+    height : 350px;     
+    }
+    
+    .btn-default{
+    color:black    
+    }
